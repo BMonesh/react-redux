@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { incrementAction, decrementAction } from "./Action"; // Assuming you have these actions defined
+import { incrementAction, decrementAction } from "./Action";
 import reducer from "./Reducer";
 import { createStore } from "redux";
 
